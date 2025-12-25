@@ -22,6 +22,8 @@ Most of my work is hands-on: systematic experimentation, clean architecture patt
 
 🚀 Building practical AI solutions for customer service automation and intelligent information retrieval.
 
-## 📫 Get in Touch
+---
+
+## Get in Touch
 
 - 📧 Email: tzelvtz04@gmail.com
