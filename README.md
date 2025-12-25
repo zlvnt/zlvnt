@@ -1,4 +1,4 @@
-# Hi, I'm Nando 👋
+# Hi, I'm Ted 👋
 
 I build intelligent AI systems focused on RAG optimization, conversational agents, and production-ready LLM applications.
 
