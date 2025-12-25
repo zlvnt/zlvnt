@@ -18,8 +18,6 @@ Most of my work is hands-on: systematic experimentation, clean architecture patt
 - [**RAG Observatory**](https://github.com/zlvnt/rag-observatory) - Systematic RAG optimization achieving 82.8% precision through 20+ experiments
 - [**Agentic RAG**](https://github.com/zlvnt/z3-agentic-rag) - Query intelligence layer delivering +34% quality improvement over base RAG
 
----
-
 🚀 Building practical AI solutions for customer service automation and intelligent information retrieval.
 
 ---
