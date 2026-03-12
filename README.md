@@ -9,7 +9,6 @@ Most of my work is hands-on: systematic experimentation, clean architecture patt
 - **RAG Systems:** optimization through systematic experimentation, cross-encoder reranking, semantic search
 - **AI Agents:** intelligent routing, query reformulation, multi-channel conversational AI
 - **LLM Applications:** production patterns with monitoring, async processing, and observability
-- **Indonesian NLP:** domain-specific optimizations for e-commerce and customer service
 - **Research & Experimentation:** ablation studies, metrics evaluation, performance optimization
 
 **Featured Projects**
