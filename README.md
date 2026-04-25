@@ -1,4 +1,4 @@
-# Hi, I'm Ted 👋
+# Hi, I'm Ted !
 
 I build AI systems for customer service automation and information retrieval. My approach is hands-on: systematic experimentation, clean architecture, and production-ready implementations that hold up outside of demo environments.
 
